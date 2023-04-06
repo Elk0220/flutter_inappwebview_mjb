@@ -2,8 +2,8 @@ name: flutter_inappwebview_mjb
 description: A Flutter plugin that allows you to add an inline webview, to use an headless webview, and to open an in-app browser window.
 version: 6.0.0-beta.22
 homepage: https://inappwebview.dev/
-repository: https://github.com/pichillilorenzo/flutter_inappwebview
-issue_tracker: https://github.com/pichillilorenzo/flutter_inappwebview/issues
+repository: https://github.com/Elk0220/flutter_inappwebview_mjb
+issue_tracker: https://github.com/Elk0220/flutter_inappwebview_mjb/issues
 
 environment:
   sdk: ">=2.14.0 <3.0.0"
@@ -46,9 +46,9 @@ flutter:
         fileName: flutter_inappwebview.dart
 
   assets:
-    - packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html
-    - packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css
-    - packages/flutter_inappwebview/assets/web/web_support.js
+    - packages/flutter_inappwebview_mjb/assets/t_rex_runner/t-rex.html
+    - packages/flutter_inappwebview_mjb/assets/t_rex_runner/t-rex.css
+    - packages/flutter_inappwebview_mjb/assets/web/web_support.js
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
